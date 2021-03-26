@@ -815,49 +815,6 @@ xHeight = 1098;
 );
 glyphs = (
 {
-glyphname = .notdef;
-layers = (
-{
-layerId = "B1070C97-2DE4-4FC8-9990-FF316D9539D4";
-paths = (
-{
-closed = 1;
-nodes = (
-"922 1462 LINE",
-"102 1462 LINE",
-"102 0 LINE",
-"922 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"823 1364 LINE",
-"823 98 LINE",
-"201 98 LINE",
-"201 1364 LINE"
-);
-}
-);
-userData = {
-assembly = "NPUSHB[ ]	/* 39 values pushed */\0120 0 0 3 2 0 3 103 0 2 1 1 2 87 0 2 2 1 95 4 1 1 2 1 79 0 0 7 6 5 4 0 3 0 3 17 5 6 23 \012CALL[ ]	/* CallFunction */";
-};
-width = 1024;
-}
-);
-note = .notdef;
-},
-{
-glyphname = CR;
-layers = (
-{
-layerId = "B1070C97-2DE4-4FC8-9990-FF316D9539D4";
-width = 1044;
-}
-);
-note = CR;
-},
-{
 glyphname = space;
 layers = (
 {
@@ -867,16 +824,6 @@ width = 532;
 );
 note = space;
 unicode = 0020;
-},
-{
-glyphname = uni0000;
-layers = (
-{
-layerId = "B1070C97-2DE4-4FC8-9990-FF316D9539D4";
-width = 0;
-}
-);
-note = uni0000;
 },
 {
 glyphname = exclam;
